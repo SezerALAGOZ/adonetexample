@@ -1,0 +1,12 @@
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_Entities\bin\Debug\NTier_Question7_Entities.dll
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_Entities\bin\Debug\NTier_Question7_Entities.pdb
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_Entities\obj\Debug\NTier_Question7_Entities.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_Entities\obj\Debug\NTier_Question7_Entities.dll
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_Entities\obj\Debug\NTier_Question7_Entities.pdb
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_Entities\obj\Debug\NTier_Question7_Entities.csprojAssemblyReference.cache
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_Entities\bin\Debug\NTier_Question7_Entities.dll
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_Entities\bin\Debug\NTier_Question7_Entities.pdb
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_Entities\obj\Debug\NTier_Question7_Entities.csprojAssemblyReference.cache
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_Entities\obj\Debug\NTier_Question7_Entities.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_Entities\obj\Debug\NTier_Question7_Entities.dll
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_Entities\obj\Debug\NTier_Question7_Entities.pdb

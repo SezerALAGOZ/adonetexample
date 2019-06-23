@@ -1,0 +1,18 @@
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_DAL\bin\Debug\NTier_Question7_DAL.dll
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_DAL\bin\Debug\NTier_Question7_DAL.pdb
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_DAL\bin\Debug\NTier_Question7_Entities.dll
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_DAL\bin\Debug\NTier_Question7_Entities.pdb
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.csprojAssemblyReference.cache
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.csproj.CopyComplete
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.dll
+C:\Users\SEZER\source\repos\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.pdb
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_DAL\bin\Debug\NTier_Question7_DAL.dll
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_DAL\bin\Debug\NTier_Question7_DAL.pdb
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_DAL\bin\Debug\NTier_Question7_Entities.dll
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_DAL\bin\Debug\NTier_Question7_Entities.pdb
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.csprojAssemblyReference.cache
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.csproj.CoreCompileInputs.cache
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.csproj.CopyComplete
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.dll
+C:\Users\SEZER\Desktop\Klasörler\Bilgisayar Mühendisliği Kitaplar\Books\ADO.NET\SezerAlagöz_NTier_Question7\NTier_Question7\NTier_Question7_DAL\obj\Debug\NTier_Question7_DAL.pdb
